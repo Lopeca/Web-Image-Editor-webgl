@@ -1,4 +1,4 @@
-# Photoshop in WebGL
+# Web Image Editor - WebGL
 
 ### [View Live Demo](http://joooooon.dothome.co.kr/Photoshop-in-webgl/www/)
 
